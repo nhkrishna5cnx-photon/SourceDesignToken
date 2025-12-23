@@ -1,0 +1,15 @@
+{
+  "originHash" : "0e93171b63353fa9f08b25401dc1392a792461ae94322b08665dccb29a9c313c",
+  "pins" : [
+    {
+      "identity" : "playbook-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/playbook-ui/playbook-ios.git",
+      "state" : {
+        "revision" : "ef0398b4dd394f0b6f23c6a6d96b1f7c00632aa0",
+        "version" : "0.4.2"
+      }
+    }
+  ],
+  "version" : 3
+}
